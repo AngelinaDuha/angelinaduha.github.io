@@ -11,7 +11,7 @@
 
 ANGELINA DUHA - 72200386
 
-Laravel adalah framework yang membantu Anda untuk memaksimalkan penggunaan PHP di dalam proses pengembangan website. 
+Laravel adalah framework yang membantu Anda untuk memaksimalkan penggunaan PHP di dalam proses pengembangan website.
 
 ## Bootstrap component, bootstrap icon dan template inheritance
 Pada website ini dilengkapi dengan bootstrap yang merupakan framework HTML, CSS, dan JavaScript yang berfungsi untuk mendesain website responsive dengan cepat dan mudah. Lalu terdapat juga inharitance yang merupakan konsep pemrograman dimana sebuah class dapat ‘menurunkan’ property dan method yang dimilikinya kepada class lain
